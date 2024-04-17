@@ -6,7 +6,11 @@ public class Timer
     /***
      * 时常为n的倒计时
      */
-    public void TimeAlarmClockMenu()
+    public void TimeAlarmClockMenu()//倒计时，count down
+    //counting down倒计时动名词
+    //正计时count
+    //counter计数器
+    //timer计时器
     {
         Console.WriteLine("请输入倒计时时长（秒）：");
         if (int.TryParse(Console.ReadLine(), out int n))
