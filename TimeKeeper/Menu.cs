@@ -2,6 +2,7 @@
 using System.Threading;
 public class Menu
 {
+    //完成功能
     private char ch;
     public void TimerMenu(char ch)
     {
