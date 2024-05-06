@@ -2,5 +2,8 @@
 
 public class EXAM
 {
-    11111
+    public void ex()
+    {
+        
+    }
 }
